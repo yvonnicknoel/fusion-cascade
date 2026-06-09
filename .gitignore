@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+*.Rout
+.DS_Store
